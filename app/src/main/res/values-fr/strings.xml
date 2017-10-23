@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="button_text">Roulle</string>
+    <string name="description_roll_dice_button">Roule les dices</string>
+</resources>
